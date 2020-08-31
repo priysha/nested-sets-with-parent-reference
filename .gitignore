@@ -1,0 +1,39 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# ms vscode
+.vscode/
+
+# vim
+.vimlocal
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Compiled server code
+dist/
+
+# Coverage directory
+coverage/
+
+script.groovy
+
+package-lock.json
+
+yarn.lock
+
+yarn-error.log
